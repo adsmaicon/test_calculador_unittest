@@ -8,6 +8,7 @@ Para instalar as dependências do projeto:
 **Na pasta do projeto executar o seguinte comando 
 
 > pip install -r requirements.txt
+> pip install pytest
   
   
 ## No projeto existem exemplos simples de pipeline de CI:
